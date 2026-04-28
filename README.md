@@ -35,16 +35,6 @@ Soy un programador a tiempo completo con una mentalidad orientada al crecimiento
 - Git & GitHub
 - CI/CD Pipelines
 
----
-
-### 📈 Estadísticas de Desarrollo
-*(Si usas esto en GitHub, estas tarjetas se verán increíbles)*
-
-![Resumen de Jonathan](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=vision-friendly-dark)
-
----
-
 ### 🤝 Contacto y Conectividad
 
 - 📧 **Email:** [javierramrez509@gmail.com]
